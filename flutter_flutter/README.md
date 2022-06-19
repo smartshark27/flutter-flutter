@@ -1,3 +1,3 @@
 # Flutter Greeter
 
-Flutter is neat.
+Example which shows tex input being passed between screens.
